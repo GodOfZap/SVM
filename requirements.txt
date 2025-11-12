@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+python-chess
+scikit-optimize
+xgboost
+lightgbm
+tensorflow
