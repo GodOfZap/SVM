@@ -18,7 +18,7 @@ This project uses Support Vector Machines (SVM) to predict the outcome (Win, Los
 
 ## Installation
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn python-chess scikit-optimize xgboost
+pip install -r requirements.txt
 ```
 ## Usage
 - Load your PGN files at specified paths
